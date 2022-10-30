@@ -82,7 +82,7 @@ struct DayForcast : Decodable{
     }
 }
 
-var apiKey = "b9ab3488c011ac84e109bf20d600b6d7"
+var apiKey = "  "
 
 class ViewModel: ObservableObject {
     @Published var cityForcast: CityForcast = CityForcast.example
