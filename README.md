@@ -1,4 +1,7 @@
-# BasicWeather
+# BasicWeather: How-To-Use
+
+Search for City using the navigation bar on top
+Use panda icons with the Panda Mode On button on the bottom
 
 # Contact Info: jiamingluo123@gmail.com
 
