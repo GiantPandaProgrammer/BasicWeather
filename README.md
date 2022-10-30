@@ -1,7 +1,7 @@
 # BasicWeather: How-To-Use
 
-Search for City using the navigation bar on top
-Use panda icons with the Panda Mode On button on the bottom
+Search for City using the navigation bar on top </br>
+Use panda icons with the Panda Mode On button on the bottom </br>
 
 # Contact Info: jiamingluo123@gmail.com
 
